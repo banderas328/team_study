@@ -1,0 +1,4 @@
+[08-May-2022 16:24:55 Europe/Berlin] PHP Warning:  filemtime(): stat failed for spoon in C:\xampp\htdocs\php7\team_study\Chapter26\error_exception.php on line 18
+[08-May-2022 16:25:13 Europe/Berlin] PHP Warning:  filemtime(): stat failed for spoon in C:\xampp\htdocs\php7\team_study\Chapter26\error_exception.php on line 18
+[08-May-2022 16:25:37 Europe/Berlin] PHP Warning:  filemtime(): stat failed for spoon in C:\xampp\htdocs\php7\team_study\Chapter26\error_exception.php on line 18
+[08-May-2022 16:25:52 Europe/Berlin] PHP Warning:  filemtime(): stat failed for spoon in C:\xampp\htdocs\php7\team_study\Chapter26\error_exception.php on line 18
