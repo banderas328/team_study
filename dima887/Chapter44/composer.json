@@ -1,0 +1,24 @@
+{
+  "name": "dima887/pager",
+  "description": "A library to split results into multiple pages",
+  "keywords": ["pager", "paginator", "pagination"],
+  "homepage": "https://github.com/dima887/pager",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Dmitry Movchan",
+      "email": "movchan.1997@inbox.ru"
+    }
+  ],
+  "support": {
+    "email": "movchan.1997@inbox.ru"
+  },
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "ISPager\\": "src/"
+    }
+  }
+}
