@@ -23,7 +23,7 @@ ob_start("obSaveCookieBefore");
 // Дальше можно выводить любой текст - он будет сжат.
 ?>
 <!-- Выводим информацию о сжатии (в отдельном шаблоне). -->
-<b><?php include "gz.htm"?></b><hr />
+<b><?php include "gz.htm" ?></b><hr />
 <!-- Выводим текст страницы. -->
 <pre>
 <?=file_get_contents("ob.php")?>

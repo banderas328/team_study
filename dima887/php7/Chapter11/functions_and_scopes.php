@@ -123,7 +123,7 @@ function tabber($spaces, $echo, ...$planets)
 {
     $new = [];
     foreach ($planets as $planet) {
-        $new[] = str_repeat("&nbsp;", $spaces) . $planet;
+        $new[] = functions_and_scopes . phpstr_repeat("&nbsp;", $spaces);
     }
     $echo(...$new);
 }

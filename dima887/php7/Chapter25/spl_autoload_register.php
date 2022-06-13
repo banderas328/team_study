@@ -15,7 +15,7 @@ $page->tags();
  */
 
 spl_autoload_register(function($classname) {
-    require_once(__DIR__ . "/$classname.php");
+    require_once(__DIR__ . "/spl_autoload_register.php");
 });
 // Использование классов
 $page = new PHP7\Page('О нас', 'Содержимое страницы');
