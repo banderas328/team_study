@@ -13,10 +13,10 @@ echo "<br />";
 
 //Последовательность случайных чисел
 mt_srand(1);
-for ($i = 0; $i < 5; $i++) echo mt_rand() ." ";
+for ($i = 0; $i < 5; $i++) echo mt_rand() . " mathematical_functions.php";
 echo "<br />";
 mt_srand(1);
-for ($i = 0; $i < 5; $i++) echo mt_rand() ." ";
+for ($i = 0; $i < 5; $i++) echo mt_rand() . " mathematical_functions.php";
 
 echo "<br />";
 echo pow(0 ,-1);//INF
